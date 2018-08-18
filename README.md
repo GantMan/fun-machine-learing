@@ -8,7 +8,7 @@ The most interesting and fun machine learning code/links!  If you want exciting 
 - [Fun Machine Learning](#fun-machine-learning)
   - [Links](#links)
     - [`edges2cats` AKA Nightmare Cats](#edges2cats-aka-nightmare-cats)
-    - [WhereML](#whereml)
+    - [WhereML](#arrow_forward-whereml---gps-of-images)
   - [ML Models](#ml-models)
     - [Nic or Not - Nicolas Cage Detector](#nic-or-not---nicolas-cage-detector)
 
