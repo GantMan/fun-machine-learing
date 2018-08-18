@@ -38,6 +38,14 @@ One of my favorite blogs where Adam Geitgey writes up interesting articles which
 
 * LINK: https://www.machinelearningisfun.com/
 
+### Teachable Machine
+This super simple interface for teaching 3 different image classifiers is cute and fun to experiment with.  Great for beginners!
+
+![Teachable Machine](./_art/teachable-machine-splash-desktop.svg)
+
+* LINK: https://teachablemachine.withgoogle.com/
+* CODE: https://github.com/googlecreativelab/teachable-machine
+
 ## ML Models
 
 ### :arrow_forward: Nic or Not - Nicolas Cage Detector
