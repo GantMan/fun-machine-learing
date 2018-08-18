@@ -8,6 +8,7 @@ The most interesting and fun machine learning code/links!  If you want exciting 
 - [Links](#links)
   - [:arrow_forward: `edges2cats` AKA Nightmare Cats](#arrow_forward-edges2cats-aka-nightmare-cats)
   - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
+  - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
 - [ML Models](#ml-models)
   - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
 
@@ -28,6 +29,13 @@ Beautiful photos of far off places don't have to be a mystery.  Simply tag @wher
 ![whereml results](./_art/whereml.jpg)
 
 * LINK: https://twitter.com/WhereML/with_replies
+
+### :arrow_forward: Machine Learning is Fun - Awesome Blog
+One of my favorite blogs where Adam Geitgey writes up interesting articles which teach you ML concepts with fun and exciting exercises.
+
+![will](./_art/will.jpg)
+
+* LINK: https://www.machinelearningisfun.com/
 
 ## ML Models
 
