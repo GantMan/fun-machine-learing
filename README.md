@@ -11,6 +11,7 @@ The most interesting and fun machine learning code/links!  If you want exciting 
   - [:arrow_forward: `edges2cats` AKA Nightmare Cats](#arrow_forward-edges2cats-aka-nightmare-cats)
   - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
   - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
+  - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
 - [ML Models](#ml-models)
   - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
 
@@ -39,7 +40,7 @@ One of my favorite blogs where Adam Geitgey writes up interesting articles which
 
 * LINK: https://www.machinelearningisfun.com/
 
-### Teachable Machine
+### :arrow_forward: Teachable Machine
 This super simple interface for teaching 3 different image classifiers is cute and fun to experiment with.  Great for beginners!
 
 ![Teachable Machine](./_art/teachable-machine-splash-desktop.svg)
