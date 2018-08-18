@@ -1,3 +1,4 @@
+![Fun ML Logo](./_art/fun.jpg)
 # Fun Machine Learning
 The most interesting and fun machine learning code/links!  If you want exciting ML, you're in the right spot.  Please contribute and share.
 
