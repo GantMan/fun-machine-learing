@@ -16,14 +16,14 @@ The most interesting and fun machine learning code/links!  If you want exciting 
 
 ## Links
 
-### `edges2cats` AKA Nightmare Cats
+### :arrow_forward: `edges2cats` AKA Nightmare Cats
 Draw cats, buildings, purses and have ML bring drawings to life!
 
 ![edges2cats demo](./_art/meow.png)
 
 * WEBSITE: https://affinelayer.com/pixsrv/index.html
 
-### WhereML
+### :arrow_forward: WhereML - GPS of Images
 Beautiful photos of far off places don't have to be a mystery.  Simply tag @whereml in your tweets, and get a friendly reply of that destination.
 
 ![whereml results](./_art/whereml.jpg)
@@ -32,7 +32,7 @@ Beautiful photos of far off places don't have to be a mystery.  Simply tag @wher
 
 ## ML Models
 
-### Nic or Not - Nicolas Cage Detector
+### :arrow_forward: Nic or Not - Nicolas Cage Detector
 Attempt to find and detect Nic Cage with this recognition model.
 
 ![nic cage](./_art/nic.jpg)
