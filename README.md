@@ -1,16 +1,18 @@
-# fun-machine-learing
-The most interesting and fun machine learning links!
+# Fun Machine Learning
+The most interesting and fun machine learning code/links!  If you want exciting ML, you're in the right spot.  Please contribute and share.
 
 ## Links
 
-### edges2cats akak Nightmare Cats
+### `edges2cats` AKA Nightmare Cats
 
+![edges2cats demo](./meow.png)
 
-https://affinelayer.com/pixsrv/index.html
+WEBSITE: https://affinelayer.com/pixsrv/index.html
 
 
 ## ML Models
 
 ### Nic or Not - Nicolas Cage Detector
 
-http://declarationofindependencethief.com/
+WEBSITE: http://declarationofindependencethief.com/
+MODEL: https://s3.amazonaws.com/despiteallmyrage/MegaNic50.mlmodel
