@@ -1,6 +1,9 @@
+# Fun Machine Learning
+The most interesting and fun machine learning code/links!  If you want exciting ML, you're in the right spot.  Please contribute and share.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [Fun Machine Learning](#fun-machine-learning)
   - [Links](#links)
@@ -10,11 +13,6 @@
     - [Nic or Not - Nicolas Cage Detector](#nic-or-not---nicolas-cage-detector)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Fun Machine Learning
-The most interesting and fun machine learning code/links!  If you want exciting ML, you're in the right spot.  Please contribute and share.
-
-
 
 ## Links
 
