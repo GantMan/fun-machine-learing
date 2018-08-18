@@ -5,12 +5,11 @@ The most interesting and fun machine learning code/links!  If you want exciting 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Fun Machine Learning](#fun-machine-learning)
-  - [Links](#links)
-    - [`edges2cats` AKA Nightmare Cats](#edges2cats-aka-nightmare-cats)
-    - [WhereML](#arrow_forward-whereml---gps-of-images)
-  - [ML Models](#ml-models)
-    - [Nic or Not - Nicolas Cage Detector](#nic-or-not---nicolas-cage-detector)
+- [Links](#links)
+  - [:arrow_forward: `edges2cats` AKA Nightmare Cats](#arrow_forward-edges2cats-aka-nightmare-cats)
+  - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
+- [ML Models](#ml-models)
+  - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
