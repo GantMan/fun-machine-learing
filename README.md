@@ -12,6 +12,9 @@ The most interesting and fun machine learning code/links!  If you want exciting 
   - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
   - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
   - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
+- [Syle Transfers & Generators](#syle-transfers--generators)
+  - [:arrow_forward: fast-style-transfer - Impressive and speedy](#arrow_forward-fast-style-transfer---impressive-and-speedy)
+  - [:arrow_forward: deep-photo-transfer - Torch based deep style transfers](#arrow_forward-deep-photo-transfer---torch-based-deep-style-transfers)
 - [ML Models](#ml-models)
   - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
 
@@ -45,8 +48,24 @@ This super simple interface for teaching 3 different image classifiers is cute a
 
 ![Teachable Machine](./_art/teachable-machine-splash-desktop.svg)
 
+* VIDEO: https://www.youtube.com/watch?v=3BhkeY974Rg
 * LINK: https://teachablemachine.withgoogle.com/
 * CODE: https://github.com/googlecreativelab/teachable-machine
+
+## Syle Transfers & Generators
+
+### :arrow_forward: fast-style-transfer - Impressive and speedy
+
+![fast style transfer](./_art/style_transfer.jpg)
+
+* LINK: https://github.com/lengstrom/fast-style-transfer
+
+### :arrow_forward: deep-photo-transfer - Torch based deep style transfers
+
+![deep style transfer](./_art/deep_style_transfer.jpg)
+
+* LINK: https://github.com/luanfujun/deep-photo-styletransfer
+
 
 ## ML Models
 
