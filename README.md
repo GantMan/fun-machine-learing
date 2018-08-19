@@ -61,6 +61,14 @@ This super simple interface for teaching 3 different image classifiers is cute a
 * LINK: https://github.com/lengstrom/fast-style-transfer
 * BLOG: https://hackernoon.com/diy-prisma-fast-style-transfer-app-with-coreml-and-tensorflow-817c3b90dacd
 
+### :arrow_forward: deep-image-prior - Image cleanup
+Remove artifacts, perform inpainting, upgrade to super-resolution, and apply denoising with the magic of ML
+
+![prior](./_art/prior.png)
+
+* LINK: https://dmitryulyanov.github.io/deep_image_prior
+* CODE: https://github.com/DmitryUlyanov/deep-image-prior
+
 ### :arrow_forward: deep-photo-transfer - Torch based deep style transfers
 
 ![deep style transfer](./_art/deep_style_transfer.jpg)
