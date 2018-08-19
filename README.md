@@ -10,21 +10,23 @@ The most interesting and exciting machine learning experiences!  If you want ML 
 **Table of Contents**
 
 - [Links](#links)
-  - [:arrow_forward: `edges2cats` AKA Nightmare Cats](#arrow_forward-edges2cats-aka-nightmare-cats)
-  - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
-  - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
-  - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
+    - [:arrow_forward: `edges2cats` AKA Nightmare Cats](#arrow_forward-edges2cats-aka-nightmare-cats)
+    - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
+    - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
+    - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
 - [Syle Transfers & Generators](#syle-transfers--generators)
-  - [:arrow_forward: fast-style-transfer - Impressive and speedy](#arrow_forward-fast-style-transfer---impressive-and-speedy)
-  - [:arrow_forward: deep-image-prior - Image cleanup](#arrow_forward-deep-image-prior---image-cleanup)
-  - [:arrow_forward: deep-photo-transfer - Torch based deep style transfers](#arrow_forward-deep-photo-transfer---torch-based-deep-style-transfers)
+    - [:arrow_forward: fast-style-transfer - Impressive and speedy](#arrow_forward-fast-style-transfer---impressive-and-speedy)
+    - [:arrow_forward: deep-image-prior - Image cleanup](#arrow_forward-deep-image-prior---image-cleanup)
+    - [:arrow_forward: deep-photo-transfer - Torch based deep style transfers](#arrow_forward-deep-photo-transfer---torch-based-deep-style-transfers)
 - [ML Models](#ml-models)
-  - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
-  - [:arrow_forward: Food 101 - Food Identifier](#arrow_forward-food-101---food-identifier)
+    - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
+    - [:arrow_forward: Food 101 - Food Identifier](#arrow_forward-food-101---food-identifier)
+- [How to Contribute](#how-to-contribute)
+    - [How to install and use `doctoc`](#how-to-install-and-use-doctoc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Links
+# Links
 
 ### :arrow_forward: `edges2cats` AKA Nightmare Cats
 Draw cats, buildings, purses and have ML bring drawings to life!
@@ -57,7 +59,7 @@ This super simple interface for teaching 3 different image classifiers is cute a
 * LINK: https://teachablemachine.withgoogle.com/
 * CODE: https://github.com/googlecreativelab/teachable-machine
 
-## Syle Transfers & Generators
+# Syle Transfers & Generators
 
 ### :arrow_forward: fast-style-transfer - Impressive and speedy
 
@@ -81,7 +83,7 @@ Remove artifacts, perform inpainting, upgrade to super-resolution, and apply den
 * LINK: https://github.com/luanfujun/deep-photo-styletransfer
 
 
-## ML Models
+# ML Models
 
 ### :arrow_forward: Nic or Not - Nicolas Cage Detector
 Attempt to find and detect Nic Cage with this recognition model.
