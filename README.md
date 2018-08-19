@@ -59,6 +59,7 @@ This super simple interface for teaching 3 different image classifiers is cute a
 ![fast style transfer](./_art/style_transfer.jpg)
 
 * LINK: https://github.com/lengstrom/fast-style-transfer
+* BLOG: https://hackernoon.com/diy-prisma-fast-style-transfer-app-with-coreml-and-tensorflow-817c3b90dacd
 
 ### :arrow_forward: deep-photo-transfer - Torch based deep style transfers
 
