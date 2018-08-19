@@ -14,9 +14,11 @@ The most interesting and fun machine learning code/links!  If you want exciting 
   - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
 - [Syle Transfers & Generators](#syle-transfers--generators)
   - [:arrow_forward: fast-style-transfer - Impressive and speedy](#arrow_forward-fast-style-transfer---impressive-and-speedy)
+  - [:arrow_forward: deep-image-prior - Image cleanup](#arrow_forward-deep-image-prior---image-cleanup)
   - [:arrow_forward: deep-photo-transfer - Torch based deep style transfers](#arrow_forward-deep-photo-transfer---torch-based-deep-style-transfers)
 - [ML Models](#ml-models)
   - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
+  - [:arrow_forward: Food 101 - Food Identifier](#arrow_forward-food-101---food-identifier)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -85,3 +87,12 @@ Attempt to find and detect Nic Cage with this recognition model.
 
 * WEBSITE: http://declarationofindependencethief.com/
 * MODEL: https://s3.amazonaws.com/despiteallmyrage/MegaNic50.mlmodel
+
+### :arrow_forward: Food 101 - Food Identifier
+Are you a bad cook?  Just point, click, and identify if this model can even tell what it is that you cooked.  Image classification for food.
+
+![Food Classification 101](./_art/food101.png)
+
+* WEBSITE: https://www.vision.ee.ethz.ch/datasets_extra/food-101/
+* DATASET: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
+* COREML MODEL: https://coreml.store/food101
