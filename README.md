@@ -3,7 +3,7 @@
 </p>
 
 # Fun Machine Learning
-The most interesting and fun machine learning code/links!  If you want exciting ML, you're in the right spot.  Please contribute and share.
+The most interesting and exciting machine learning experiences!  If you want ML to be fun, you're in the right spot.  Please contribute and share.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -99,3 +99,11 @@ Are you a bad cook?  Just point, click, and identify if this model can even tell
 * WEBSITE: https://www.vision.ee.ethz.ch/datasets_extra/food-101/
 * DATASET: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
 * COREML MODEL: https://coreml.store/food101
+
+
+# How to Contribute
+Please add your content in the appropriate section, upload an image, and start your title with :arrow_forward: so we can clearly see where each blog begins/ends.  Once your addition has been made, I suggest running `doctoc` to update the header table of contents.
+
+### How to install and use `doctoc`
+
+Install via npm with `npm i -g doctoc` and then run `doctoc .` in the root folder to properly update the table of contents to fit new content.
