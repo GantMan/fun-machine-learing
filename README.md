@@ -30,6 +30,7 @@ Draw cats, buildings, purses and have ML bring drawings to life!
 ![edges2cats demo](./_art/meow.png)
 
 * WEBSITE: https://affinelayer.com/pixsrv/index.html
+* CODE: https://github.com/affinelayer/pix2pix-tensorflow
 
 ### :arrow_forward: WhereML - GPS of Images
 Beautiful photos of far off places don't have to be a mystery.  Simply tag @whereml in your tweets, and get a friendly reply of that destination.
