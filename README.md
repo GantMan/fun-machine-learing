@@ -21,6 +21,7 @@ The most interesting and exciting machine learning experiences!  If you want ML 
 - [ML Models](#ml-models)
     - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
     - [:arrow_forward: Food 101 - Food Identifier](#arrow_forward-food-101---food-identifier)
+    - [:arrow_forward: Face Classification - How ya feeling?](#arrow_forward-face-classification---how-ya-feeling)
 - [How to Contribute](#how-to-contribute)
     - [How to install and use `doctoc`](#how-to-install-and-use-doctoc)
 
