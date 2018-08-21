@@ -102,6 +102,15 @@ Are you a bad cook?  Just point, click, and identify if this model can even tell
 * DATASET: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
 * COREML MODEL: https://coreml.store/food101
 
+### :arrow_forward: Face Classification - How ya feeling?
+Bad at reading people?  Don't worry, this code isn't on the spectrum, let it classify for ya!
+
+![face classification](./_art/face_classification.jpg)
+
+
+* CODE: https://github.com/oarriaga/face_classification
+* MODEL: https://github.com/oarriaga/face_classification/tree/master/trained_models
+
 
 # How to Contribute
 Please add your content in the appropriate section, upload an image, and start your title with :arrow_forward: so we can clearly see where each blog begins/ends.  Once your addition has been made, I suggest running `doctoc` to update the header table of contents.
