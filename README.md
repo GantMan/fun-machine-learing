@@ -21,6 +21,7 @@ The most interesting and exciting machine learning experiences!  If you want ML 
 - [ML Models](#ml-models)
     - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
     - [:arrow_forward: Food 101 - Food Identifier](#arrow_forward-food-101---food-identifier)
+    - [:arrow_forward: Face Classification - How ya feeling?](#arrow_forward-face-classification---how-ya-feeling)
 - [How to Contribute](#how-to-contribute)
     - [How to install and use `doctoc`](#how-to-install-and-use-doctoc)
 
@@ -101,6 +102,15 @@ Are you a bad cook?  Just point, click, and identify if this model can even tell
 * WEBSITE: https://www.vision.ee.ethz.ch/datasets_extra/food-101/
 * DATASET: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
 * COREML MODEL: https://coreml.store/food101
+
+### :arrow_forward: Face Classification - How ya feeling?
+Bad at reading people?  Don't worry, this code isn't on the spectrum, let it classify for ya!
+
+![face classification](./_art/face_classification.jpg)
+
+
+* CODE: https://github.com/oarriaga/face_classification
+* MODEL: https://github.com/oarriaga/face_classification/tree/master/trained_models
 
 
 # How to Contribute
