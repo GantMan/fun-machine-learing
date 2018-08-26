@@ -37,6 +37,10 @@ Draw cats, buildings, purses and have ML bring drawings to life!
 * WEBSITE: https://affinelayer.com/pixsrv/index.html
 * CODE: https://github.com/affinelayer/pix2pix-tensorflow
 
+#### BONUS:  Human faces
+* WEBSITE: https://zaidalyafeai.github.io/pix2pix/faces.html
+* CODE: https://github.com/zaidalyafeai/zaidalyafeai.github.io/tree/master/pix2pix
+
 ### :arrow_forward: WhereML - GPS of Images
 Beautiful photos of far off places don't have to be a mystery.  Simply tag @whereml in your tweets, and get a friendly reply of that destination.
 
