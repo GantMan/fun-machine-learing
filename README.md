@@ -96,7 +96,7 @@ Attempt to find and detect Nic Cage with this recognition model.
 ![nic cage](./_art/nic.jpg)
 
 * WEBSITE: http://declarationofindependencethief.com/
-* MODEL: https://s3.amazonaws.com/despiteallmyrage/MegaNic50.mlmodel
+* MODEL: https://github.com/GantMan/nicornot/tree/master/models
 
 ### :arrow_forward: Food 101 - Food Identifier
 Are you a bad cook?  Just point, click, and identify if this model can even tell what it is that you cooked.  Image classification for food.
