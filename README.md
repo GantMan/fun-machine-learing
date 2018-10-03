@@ -14,6 +14,7 @@ The most interesting and exciting machine learning experiences!  If you want ML 
     - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
     - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
     - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
+    - [:arrow_forward: AI Blockchain Anime - Deep Neural Network Anime](#arrow_forward-ai-blockchain-anime---deep-neural-network-anime)
 - [Syle Transfers & Generators](#syle-transfers--generators)
     - [:arrow_forward: fast-style-transfer - Impressive and speedy](#arrow_forward-fast-style-transfer---impressive-and-speedy)
     - [:arrow_forward: deep-image-prior - Image cleanup](#arrow_forward-deep-image-prior---image-cleanup)
@@ -64,6 +65,13 @@ This super simple interface for teaching 3 different image classifiers is cute a
 * LINK: https://teachablemachine.withgoogle.com/
 * CODE: https://github.com/googlecreativelab/teachable-machine
 
+### :arrow_forward: AI Blockchain Anime - Deep Neural Network Anime
+
+![AI Crypko](./_art/anime.png)
+![Demo](./_art/anime_ai.gif)
+
+* LINK: https://crypko.ai/
+
 # Syle Transfers & Generators
 
 ### :arrow_forward: fast-style-transfer - Impressive and speedy
@@ -86,7 +94,6 @@ Remove artifacts, perform inpainting, upgrade to super-resolution, and apply den
 ![deep style transfer](./_art/deep_style_transfer.jpg)
 
 * LINK: https://github.com/luanfujun/deep-photo-styletransfer
-
 
 # ML Models
 
