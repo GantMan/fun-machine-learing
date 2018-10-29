@@ -11,6 +11,7 @@ The most interesting and exciting machine learning experiences!  If you want ML 
 
 - [Links](#links)
     - [:arrow_forward: `edges2cats` AKA Nightmare Cats](#arrow_forward-edges2cats-aka-nightmare-cats)
+      - [BONUS:  Human faces](#bonus--human-faces)
     - [:arrow_forward: WhereML - GPS of Images](#arrow_forward-whereml---gps-of-images)
     - [:arrow_forward: Machine Learning is Fun - Awesome Blog](#arrow_forward-machine-learning-is-fun---awesome-blog)
     - [:arrow_forward: Teachable Machine](#arrow_forward-teachable-machine)
@@ -23,6 +24,8 @@ The most interesting and exciting machine learning experiences!  If you want ML 
     - [:arrow_forward: Nic or Not - Nicolas Cage Detector](#arrow_forward-nic-or-not---nicolas-cage-detector)
     - [:arrow_forward: Food 101 - Food Identifier](#arrow_forward-food-101---food-identifier)
     - [:arrow_forward: Face Classification - How ya feeling?](#arrow_forward-face-classification---how-ya-feeling)
+- [Transfer Learning](#transfer-learning)
+    - [:arrow_forward: Playing Mortal Kombat with TensorFlow.js](#arrow_forward-playing-mortal-kombat-with-tensorflowjs)
 - [How to Contribute](#how-to-contribute)
     - [How to install and use `doctoc`](#how-to-install-and-use-doctoc)
 
@@ -123,6 +126,15 @@ Bad at reading people?  Don't worry, this code isn't on the spectrum, let it cla
 * CODE: https://github.com/oarriaga/face_classification
 * MODEL: https://github.com/oarriaga/face_classification/tree/master/trained_models
 
+# Transfer Learning
+
+### :arrow_forward: Playing Mortal Kombat with TensorFlow.js
+Play a javascript port of Mortal Kombat by actually kicking and punching infront of your laptop webcam. Learn transfer learning and data augmentation by training your own ML model to play Mortal Kombat.
+
+![mortal kombat](./_art/punching.gif)
+
+* WEBSITE: https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/
+* CODE: https://github.com/mgechev/mk-tfjs
 
 # How to Contribute
 Please add your content in the appropriate section, upload an image, and start your title with :arrow_forward: so we can clearly see where each blog begins/ends.  Once your addition has been made, I suggest running `doctoc` to update the header table of contents.
