@@ -5,6 +5,7 @@
 # Fun Machine Learning
 The most interesting and exciting machine learning experiences!  If you want ML to be fun, you're in the right spot.  Please contribute and share.
 
+### :star2: Now follow me on Twitter [@FunMachineLearn](https://twitter.com/FunMachineLearn)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
