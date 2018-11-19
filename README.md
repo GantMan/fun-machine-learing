@@ -2,7 +2,7 @@
 <img src="./_art/fun.jpg" width="400px" />
 </p>
 
-# NOTICE OF OUTGROWING GITHUB
+# We're moving! - outgrowing GitHub
 GitHub was great when there were a few examples, but now there are more every day!
 
 We've moved to Twitter and Reddit!
